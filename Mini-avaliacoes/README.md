@@ -5,4 +5,5 @@
 ###  - Fundamentos:
 
 - Questão 1 - Conversão monetária de Real para Dollar.
+- Questão 2 - Conversão de temperatura de Celsius para Kelvin.
 

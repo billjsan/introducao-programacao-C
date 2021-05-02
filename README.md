@@ -2,3 +2,5 @@
 
 ### Disciplina do curso de Análise e Desenvolvimento de Sistemas - IFPE 2021
 
+:file_folder:Mini-avaliações
+
