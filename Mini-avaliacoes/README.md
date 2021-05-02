@@ -9,3 +9,4 @@
 - Questão 3 - Cálculo da circunferência a partir do raio. 
 - Questão 4 - Cálculo da área da circunferência a partir do raio.
 - Questão 5 - Cálculo de correção do salário mínimo. 
+- Questão 6 - Recebe do usuário uma letra e retorna o case complementar.

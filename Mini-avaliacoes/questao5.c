@@ -3,7 +3,7 @@
 Autor: Willian J. dos Santos
 ano:   2021 
 
-4) Faça um programa em C que calcule a correção do salário mínimo a partir da Taxa informada pelo usuário.
+5) Faça um programa em C que calcule a correção do salário mínimo a partir da Taxa informada pelo usuário.
 
 */
 
