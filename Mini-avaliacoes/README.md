@@ -11,4 +11,5 @@
 - Questão 5 - Cálculo de correção do salário mínimo. 
 - Questão 6 - Recebe do usuário uma letra e retorna o case complementar.
 - Questão 7 - Cálculo de IMC.
-- Questão 8 - Programa que diz se o aluno foi aprovado ou reprovado
+- Questão 8 - Programa que diz se o aluno foi aprovado ou reprovado.
+- Questão 9 - Recebe um inteiro e retorna se é ímpar ou par .
