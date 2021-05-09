@@ -12,4 +12,7 @@
 - Questão 6 - Recebe do usuário uma letra e retorna o case complementar.
 - Questão 7 - Cálculo de IMC.
 - Questão 8 - Programa que diz se o aluno foi aprovado ou reprovado.
-- Questão 9 - Recebe um inteiro e retorna se é ímpar ou par .
+- Questão 9 - Recebe um inteiro e retorna se é ímpar ou par.
+- Questão 10 - Recebe 5 inteiros e retorna o maior e o menor.
+- Questão 11 - Recebe 2 inteiros e retorna se o primeiro é múltiplo do segundo.
+
