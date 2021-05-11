@@ -1,10 +1,7 @@
 /* Operadores Questão 13
-
 Autor: Willian J. dos Santos
 ano:   2021 
-
 13) Faça um programa em C que receba um inteiro de 1 a 12 e retorne qual o mes do ano.
-
 */
 
 
