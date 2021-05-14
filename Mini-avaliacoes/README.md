@@ -38,5 +38,7 @@
 
 - Questão 17 - Calcula a eficiência, consumo e custo de um automóvel dados os valores de abastecimento e distância percorrida.
 
+- Questão 18 - Calcula os juros compostos de um empréstimo. 
+
   
 
