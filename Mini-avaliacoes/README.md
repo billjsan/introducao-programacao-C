@@ -40,5 +40,9 @@
 
 - Questão 18 - Calcula os juros compostos de um empréstimo. 
 
+- Questão 19 - Recebe do usuário um inteiro de 0 a 20 e desenha na tela uma matriz correspondente.
+
+- Questão 20 - Recebe do usuário um inteiro com 5 dígitos e retorna se o valor é um palíndromo. 
+
   
 
