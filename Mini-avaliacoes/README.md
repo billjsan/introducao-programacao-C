@@ -44,5 +44,9 @@
 
 - Questão 20 - Recebe do usuário um inteiro com 5 dígitos e retorna se o valor é um palíndromo. 
 
+- Questão 21 - Escreva uma função que recebe, por parâmetro, dois valores X e Z e calcula e retorna X elevado a z.
+
+  
+  
   
 
