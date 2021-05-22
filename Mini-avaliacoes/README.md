@@ -60,3 +60,11 @@
 
 - questão 26 - Faça uma função recursiva que receba um valor inteiro e positivo e calcule o seu fatorial.
 
+- Questão 27 - Crie uma função que retorne o valor total de uma aplicação na poupança baseado na sua idade de contribuição trabalhista daqui à 65 anos (na aposentadoria). O programa deve receber um valor inicial da aplicação na poupança (ex.: R$5000,00), o valor do juros mensal e a quantidade de meses. Baseado na fórmula https://goo.gl/EFd26p retorne o valor total de quanto terá na poupança até o ano de aposentadoria.
+
+- Questão 28 - Tendo como base na aplicação acima, crie um programa que calcule o valor total da poupança que além do valor inicial e valor do juros, também receba valores de aplicações mensais (ex.: R$50,00/mês) durante todo o período da sua idade até os 65 anos.
+
+- Questão 29 - Criar uma função que receba um vetor de caracteres (palavra, vetor de char) e retorne a quantidade de caracteres.
+
+- Questão 30 - Criar uma função que receba um vetor de caracteres (frase, vetor de char) e retorne a quantidade de palavras
+
