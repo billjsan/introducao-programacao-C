@@ -66,5 +66,9 @@
 
 - Questão 29 - Criar uma função que receba um vetor de caracteres (palavra, vetor de char) e retorne a quantidade de caracteres.
 
-- Questão 30 - Criar uma função que receba um vetor de caracteres (frase, vetor de char) e retorne a quantidade de palavras
+- Questão 30 - Criar uma função que receba um vetor de caracteres (frase, vetor de char) e retorne a quantidade de palavras.
+
+- Questão 31 - Criar uma função que receba um vetor de inteiros e retorne o maior valor.
+
+- Questão 32 - Criar uma função que receba um vetor de inteiros e retorne o menor valor.
 
