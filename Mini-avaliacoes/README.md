@@ -72,3 +72,5 @@
 
 - Questão 32 - Criar uma função que receba um vetor de inteiros e retorne o menor valor.
 
+- Questão 33  -  Criar uma função que receba um vetor de inteiros por parâmetro e ordene esse vetor utilizando a função maior OU a função menor das questões anteriores. Inspire-se no método da bolha.
+
