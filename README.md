@@ -4,3 +4,7 @@
 
 :file_folder:Mini-avaliações
 
+:file_folder:Projeto-Guiado
+
+:file_folder:Provas
+
