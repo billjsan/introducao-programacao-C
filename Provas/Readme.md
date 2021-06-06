@@ -2,6 +2,7 @@
 
 
 
-- Questão 01 - Calcular o volume de concreto para determinadas aplicações da construção civil
-- Questão 02 - Cálculo básico de construção em alvenaria para determinados cenários de terreno
+- Questão 01 - Calcular o volume de concreto para determinadas aplicações da construção civil.
+- Questão 02 - Cálculo básico de construção em alvenaria para determinados cenários de terreno.
+- Questão 03 - Cálculo da quantidade de Telhas em função do tipo e inclinação dos telhados.
 
